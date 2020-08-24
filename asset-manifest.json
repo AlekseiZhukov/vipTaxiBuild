@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.40dce256.chunk.css",
-    "main.js": "./static/js/main.fe7091d3.chunk.js",
-    "main.js.map": "./static/js/main.fe7091d3.chunk.js.map",
+    "main.css": "./static/css/main.07eeb134.chunk.css",
+    "main.js": "./static/js/main.87bafe8d.chunk.js",
+    "main.js.map": "./static/js/main.87bafe8d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7904775a.js",
     "runtime-main.js.map": "./static/js/runtime-main.7904775a.js.map",
-    "static/js/2.00dc3027.chunk.js": "./static/js/2.00dc3027.chunk.js",
-    "static/js/2.00dc3027.chunk.js.map": "./static/js/2.00dc3027.chunk.js.map",
+    "static/css/2.ab84ab19.chunk.css": "./static/css/2.ab84ab19.chunk.css",
+    "static/js/2.a634ff4a.chunk.js": "./static/js/2.a634ff4a.chunk.js",
+    "static/js/2.a634ff4a.chunk.js.map": "./static/js/2.a634ff4a.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.40e67990b998f27c47ceb4226def6e46.js": "./precache-manifest.40e67990b998f27c47ceb4226def6e46.js",
+    "precache-manifest.7ac44c3b47eef0df1c7ae3beeddd0151.js": "./precache-manifest.7ac44c3b47eef0df1c7ae3beeddd0151.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.40dce256.chunk.css.map": "./static/css/main.40dce256.chunk.css.map",
-    "static/js/2.00dc3027.chunk.js.LICENSE.txt": "./static/js/2.00dc3027.chunk.js.LICENSE.txt",
+    "static/css/2.ab84ab19.chunk.css.map": "./static/css/2.ab84ab19.chunk.css.map",
+    "static/css/main.07eeb134.chunk.css.map": "./static/css/main.07eeb134.chunk.css.map",
+    "static/js/2.a634ff4a.chunk.js.LICENSE.txt": "./static/js/2.a634ff4a.chunk.js.LICENSE.txt",
     "static/media/App.css": "./static/media/AlegreyaSans-Regular.faa3c83d.ttf",
+    "static/media/Section2.css": "./static/media/soberdriver.a4dea1cf.svg",
     "static/media/baby-O.svg": "./static/media/baby-O.e28fcc15.svg",
     "static/media/baby-W.svg": "./static/media/baby-W.4c4c121d.svg",
     "static/media/Slider.css": "./static/media/transfer.7068586a.svg",
@@ -22,14 +25,19 @@
     "static/media/box-W.svg": "./static/media/box-W.6fc17751.svg",
     "static/media/clock-O.svg": "./static/media/clock-O.71ecc2e9.svg",
     "static/media/clock-W.svg": "./static/media/clock-W.118f38c1.svg",
+    "static/media/Section4.css": "./static/media/section4.62b1c7cc.jpg",
     "static/media/logoVipTaxi.svg": "./static/media/logoVipTaxi.26dbb071.svg",
-    "static/media/transfer-O.svg": "./static/media/transfer-O.a3f25304.svg",
-    "static/media/transfer-W.svg": "./static/media/transfer-W.91c7e32c.svg"
+    "static/media/marinsHotel.svg": "./static/media/marinsHotel.08b5ff3d.svg",
+    "static/media/SectionAddition.css": "./static/media/transfer-O.a3f25304.svg",
+    "static/media/slick-theme.css": "./static/media/slick.f97e3bbf.svg",
+    "static/media/transfer-W.svg": "./static/media/transfer-W.91c7e32c.svg",
+    "static/media/yandextaxi.svg": "./static/media/yandextaxi.3e926c8b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7904775a.js",
-    "static/js/2.00dc3027.chunk.js",
-    "static/css/main.40dce256.chunk.css",
-    "static/js/main.fe7091d3.chunk.js"
+    "static/css/2.ab84ab19.chunk.css",
+    "static/js/2.a634ff4a.chunk.js",
+    "static/css/main.07eeb134.chunk.css",
+    "static/js/main.87bafe8d.chunk.js"
   ]
 }
